@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/the_closest_pair_problem_10245_fabriziofranco.dir/main.cpp.o  -o the_closest_pair_problem_10245_fabriziofranco 
